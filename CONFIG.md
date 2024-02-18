@@ -132,7 +132,7 @@ bnsisyo-list
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
