@@ -9,7 +9,8 @@ bnsisyo-list
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-文司書
+文司書(調整中)
+
 
 # description
 
